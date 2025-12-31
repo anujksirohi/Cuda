@@ -1,6 +1,6 @@
 <div align="center"><img src="https://docs.nvidia.com/cuda/_static/Logo_and_CUDA.png" alt="CUDA" height="80"></div> 
 
-Important links: (https://github.com/rkinas/cuda-learning)
+Important links: 1 (https://github.com/rkinas/cuda-learning) 2(https://github.com/hkproj/100-days-of-gpu/tree/main)
 
 ## LEARNING PATH - From Basics to Advanced CUDA Programming
 
